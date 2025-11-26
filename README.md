@@ -1,5 +1,5 @@
-# GHATS Timing Software
-GHATS General High-Energy Aperiodic Timing Software originally written by Tomaso M. Belloni (INAF-OAB)
+# [GHATS Timing Software](https://github.com/ghats-timing/ghats)
+[GHATS](https://github.com/ghats-timing/ghats) General High-Energy Aperiodic Timing Software originally written by Tomaso M. Belloni (INAF-OAB)
 
 More than 20 years ago, Tomaso Belloni (INAF-OAB) started writing a package devoted to RXTE/PCA data. The philosophy behind the software was:
 
